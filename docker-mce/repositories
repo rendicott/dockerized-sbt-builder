@@ -1,0 +1,4 @@
+[repositories]
+  local
+  my-ivy-proxy-releases: https://artifacts.company.com/artifactory/public-ivy/, [organization]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]
+  my-maven-proxy-releases: https://artifacts.company.com/artifactory/public-maven21/

@@ -1,0 +1,5 @@
+host *
+  user jenkins
+  IdentityFile /root/.ssh/id_rsa
+  StrictHostKeyChecking no
+
